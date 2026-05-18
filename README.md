@@ -8,6 +8,8 @@ Building scalable data solutions that bridge analytics, engineering, and busines
 </p>
 ---
 
+![snake gif](https://github.com/msadnank24/msadnank24/blob/output/github-snake-dark.svg)
+
 # 🚀 About Me
 
 - 🔭 UK-based Data Engineer with a background in Marketing & Business Analytics
