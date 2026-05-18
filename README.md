@@ -3,7 +3,9 @@
 
 Building scalable data solutions that bridge analytics, engineering, and business strategy.
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=msadnank24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 ---
 
 # 🚀 About Me
