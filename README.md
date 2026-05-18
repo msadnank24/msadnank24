@@ -2,9 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+Business+Analytics+MSc;Azure+Databricks+%7C+PySpark+%7C+SQL;Building+data+solutions+with+business+impact;Exploring+AI+Engineering+%26+LLMs)](https://git.io/typing-svg)
 
 Building scalable data solutions that bridge analytics, engineering, and business strategy.
-### Data Engineer | Business Analytics MSc | Azure Databricks | PySpark | SQL
 
-Building scalable data solutions that bridge analytics, engineering, and business strategy.
 
 ---
 
